@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
+# jemdoc: addpackages{amsmath,amssymb,amsthm,mathrsfs}
 = Kuan-Yun Lee
 
 Hi, I have started a new github-based website for this domain name! The site is currently under construction...
