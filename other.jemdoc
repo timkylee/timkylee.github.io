@@ -6,7 +6,7 @@ Here is a list of interesting questions that I am thinking about in my spare tim
 
 == Inequalities
 ~~~
-1. Given positive numbers $a, b, c$ that satisfy $a^3+b^3+c^3 = 3$, prove that
+1. Given positive numbers $a, b, c$ that satisfy $a^3+b^3+c^3 = 3$, prove (without calculus) that
 \( \frac{a^3}{a+b} + \frac{b^3}{b+c} + \frac{c^3}{c+a} \geq \frac{3}{2} \)
 
 Source: http:\/\/math.stackexchange.com\/questions\/2131374\/if-a3b3c3-3-so-fraca3ab-fracb3bc-fracc3ca-geq-frac
