@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{research.html}{prefix}
+# jemdoc: menu{MENU}{research.html}
 # jemdoc: addpackages{amsmath,amssymb,amsthm,mathrsfs}
 = Research
 
